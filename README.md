@@ -2,7 +2,7 @@
 Have you ever wanted to make Beat Saber harder for you? I sure know I did. Introducing BeatShocker, the new way to make playing Beat Saber more shocking!
 
 ## Getting Started
-Make sure you have python3 installed, with the prerequisites also install and items on the parts list
+Make sure you have python3 installed, with the prerequisites also install and the items on the parts list
 
 ### Prerequisites 
 The Raspberry Pi already has the required installed in the standard libary
@@ -40,4 +40,4 @@ Run the server.py on the RPi then run the mainClient.py on the game PC.
 * **Tomasz Brauntsch** - [tomaszbrauntsch](https://github.com/tomaszbrauntsch)
 
 ## License
-This project is licensed under the CC0 License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
